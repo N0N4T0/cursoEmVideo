@@ -1,0 +1,23 @@
+body {
+    background-color: azure;
+}
+
+h2{
+    color: red;
+}
+
+.botao{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+input[type="submit"]{
+    cursor: pointer;
+}
+

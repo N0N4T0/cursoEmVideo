@@ -1,0 +1,1 @@
+otimizando o recebimento de vários valores na url com o while

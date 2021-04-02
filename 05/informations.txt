@@ -1,0 +1,9 @@
+Informar através da url algun valor:
+
+EX.:?an=1999
+
+.../05/05operadores.php?an=1999
+
+
+outros exemplos:
+Substitua o que esta dentro da tag <?php?> pelo que esta comentado

@@ -1,0 +1,12 @@
+--Importante
+
+Mandar através da url os Valores
+
+Ex.: ?x=2&y=10
+
+.../04/04funcoesAritmeticas.php?x=2&y=10
+
+Os valores x e y podem ser mudados
+
+
+
