@@ -2,7 +2,7 @@
 Exemplos de estudo referentes ao curso de PHP Básico do Curso em Vídeo
 
 # Sobre
-Afim de melhorar meu aprendizado tanto no GITHUB quando com o PHP, crier esse repositório que contem códigos e anotações de aprendizado do Curso em Vídeo (local onde fiz o curso).
+Afim de melhorar meu aprendizado tanto no GITHUB quando com o PHP, criei esse repositório que contem códigos e anotações de aprendizado do Curso em Vídeo (local onde fiz o curso).
 
 Trata-se de anotações que podem ajudar outras pessoas também no start com a linguagem PHP.
 
@@ -12,7 +12,7 @@ OBS.:
 
 Melhores aprendizados assistam as aulas do curso.
 
-#Passos
+# Passos
 
 1) Baixar IDE, no meu caso usei Visual Studio Code
 
